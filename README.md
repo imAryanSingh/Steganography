@@ -1,8 +1,8 @@
 # Image, Audio & Emoji Steganography
  
 <div align="center">
-![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 ![Status](https://img.shields.io/badge/Status-Complete-1D9E75?style=for-the-badge)
 ![IIT Ropar](https://img.shields.io/badge/Built_at-IIT_Ropar-orange?style=for-the-badge)
  
